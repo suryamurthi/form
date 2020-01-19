@@ -1,3 +1,17 @@
  body{
- background-image: url("https://zippypixels.com/wp-content/uploads/2018/03/Free-book-mock-up-scene.jpg"); 
+ background-image: url("https://i0.wp.com/www.jaga-me.com/wp-content/uploads/2018/04/Doctor_Background_Edited.jpg?ssl=1"); 
+ text-align: center;
+}
+.reg{
+	color: black;
+}
+div {
+  
+  margin: center;  
+  padding: 10px;
+  text-align: center;
+  border: 1px solid yellow;
+  outline-style: solid;
+  outline-color: invert;
+  color: black;
 }

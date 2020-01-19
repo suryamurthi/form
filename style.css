@@ -1,0 +1,29 @@
+
+
+
+body,html {
+  height: 100%;
+  margin: 0;
+
+
+
+  /* The image used */
+  background-image: url("http://www.alsayerholding.com/dam/jcr:885c754e-533c-40bd-9603-b4ad1645b7b3/about.jpg");
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.form{
+	text-align: center;
+}
+.login{
+	width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}

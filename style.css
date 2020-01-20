@@ -4,6 +4,7 @@
 body,html {
   height: 100%;
   margin: 0;
+  text-align: center;
 
 
 
@@ -20,10 +21,4 @@ body,html {
 }
 .form{
 	text-align: center;
-}
-.login{
-	width: 300px;
-  border: 15px solid green;
-  padding: 50px;
-  margin: 20px;
 }

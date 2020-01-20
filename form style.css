@@ -1,5 +1,9 @@
  body{
- background-image: url("https://i0.wp.com/www.jaga-me.com/wp-content/uploads/2018/04/Doctor_Background_Edited.jpg?ssl=1"); 
+ background-image: url("https://www.carecom.com/wp-content/uploads/2018/10/knowstartup.com-health-tech-1080x608.jpg"); 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+ height: 100%; 
  text-align: center;
 }
 .reg{
@@ -14,4 +18,7 @@ div {
   outline-style: solid;
   outline-color: invert;
   color: black;
+}
+.login{
+	color: red;
 }
